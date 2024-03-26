@@ -1,6 +1,6 @@
 # Hello I'm Sony 
 
-***´Part Time Indices Trader and Freelance Developer´***
+**´Part Time Indices Trader and Freelance Developer´**
 
 I´m a freelance developer and trader discovering what i like to do one step at a time.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
