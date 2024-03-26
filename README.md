@@ -2,9 +2,9 @@
 
 **`Part Time Indices Trader and Freelance Developer`**
 
-I´m a freelance developer and trader discovering what i like to do one step at a time.
+I'm a freelance developer and trader discovering what I like to do one step at a time.
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
-Right now im exploring this coding wolrd and for the moment what i enjoy the most is backend and game development , but i do dabble in frontend and it can be fun at times.
+Right now I'm exploring this coding world and for the moment what I enjoy the most is backend and game development , but I do dabble in frontend and it can be fun at times.
 
 
 ### 🧰 Languages and Tools
