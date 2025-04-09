@@ -18,7 +18,7 @@ Right now I'm exploring this coding world and for the moment what I enjoy the mo
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="max-width: 100%;">
 <img align="left" alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="max-width: 100%;">
 <img align="left" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="max-width: 100%;">
-<img align="left" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="max-width: 100%;">
+<img align="left" alt="Php" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/php/php-original.svg" style="max-width: 100%;">
 <img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="max-width: 100%;">
 
 
