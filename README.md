@@ -15,6 +15,7 @@ Always learning, building, and experimenting with new technologies.
 ---
 
 ## 🛠️ Projects I'm Working On  
+- 🎯 **StudentOs** → Organization & Productivity WebApp
 - 🎯 **RTS** → My first small game  
 - 💰 **SimpleBudget** → My first iOS & Android app  
 
