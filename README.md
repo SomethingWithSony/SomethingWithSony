@@ -25,7 +25,8 @@ Always learning, building, and experimenting with new technologies.
 
 ### 🎮 Game Development  
 - Godot  
-- Aseprite  
+- Aseprite
+- Blender
 
 ### 🌐 Web Development  
 - React  
