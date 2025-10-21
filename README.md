@@ -8,9 +8,10 @@ Always learning, building, and experimenting with new technologies.
 
 
 ## 📚 Currently Learning  
-- ⚙️ Godot 4.4  
+- ⚙️ Godot 4.5  
 - 🎮 Game Development Fundamentals  
-- ⚛️ React Native  
+- ⚛️ React + .Net
+- Java
 
 ---
 
@@ -44,6 +45,9 @@ Always learning, building, and experimenting with new technologies.
 ## 📖 Book Archive  
 - *Deep Focus* → ⭐ 8/10  
 - *The Pragmatic Programmer* → 📖 Currently Reading  
+- *Dive Into DESIGN PATTERN*
+- *Game Programming Patterns*
+- *Level Up! The Guide to Great Video Game Design*
 
 ---
 
